@@ -7,4 +7,7 @@ Here you will find rosbag recorded during the F24 Silverstone event.
 /cone_marker_array\
 /laps\
 /odom\
-/path
+/path\
+/chequered_flag\
+/brake\
+/emergency_brake
