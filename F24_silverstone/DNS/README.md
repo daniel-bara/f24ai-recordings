@@ -1,0 +1,1 @@
+Car did not start in these rosbags, usually due to sensor failure at start up. 3D lidar was active as evident by /odom. Intel realsense failure at start up caused object recognition to fail therefore path planning was uable to initiate. Usually solved by power cycling the vehicle, unless there was hardware failure with the sensor itself, the cable, or the vehicle port.

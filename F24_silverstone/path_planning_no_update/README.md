@@ -1,0 +1,2 @@
+In this folder you will find rosbags of path planning failing at start up where it did not respond to the mapped cones. It is a known issues with the path planning algo we're using where it takes some time at start up to compute the path
+In went_off_left, the minimum linear velocity was set to 1.5ms-1 (higher than usual). This caused the vehicle to overshoot whilst correcting itself on the path, hitting the boundary.
