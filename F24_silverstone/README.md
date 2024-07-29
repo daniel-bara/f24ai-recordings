@@ -6,5 +6,5 @@ Here you will find rosbag recorded during the F24 Silverstone event.
 /ackermann_cmd\
 /cone_marker_array\
 /laps\
-/odom
+/odom\
 /path
